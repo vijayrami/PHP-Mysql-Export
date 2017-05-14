@@ -24,7 +24,7 @@ ToDo:
 
 Run `demo.php` file on browser:
 
-To create a zip file of large file run `demo.php`
+To create a zip file of large file run `createzip.php`
 
 To delete large file run `deletelargefile.php`
 
