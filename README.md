@@ -22,6 +22,8 @@ ToDo:
 
 ## Examples
 
+Run `demo.php` file on browser:
+
 Dump all tables in `world` database:
 
     $world_dumper = Shuttle_Dumper::create(array(
