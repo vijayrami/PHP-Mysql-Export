@@ -24,11 +24,11 @@ ToDo:
 
 Run `demo.php` file on browser:
 
-To create a zip file of large file run `createzip.php`
+- To create a zip file of large file run `createzip.php`
 
-To delete large file run `deletelargefile.php`
+- To delete large file run `deletelargefile.php`
 
-`deleteDirectory.php` file is uses one recursive function which will remove an entire directory, deleting files and subdirectories it may contain.
+- `deleteDirectory.php` file is uses one recursive function which will remove an entire directory, deleting files and subdirectories it may contain.
 
 Dump all tables in `world` database:
 
